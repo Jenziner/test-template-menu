@@ -1,0 +1,8 @@
+{
+  "name": "TestTemplateMenu",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "39aab023"
+}
